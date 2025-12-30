@@ -5,7 +5,7 @@ throw_number,timestamp(hour:min:sec),throw_type,player,score,time_left_fight,whi
 222,00:02:34,backwards_throw,blue,no_score,00:02:19,0,0,0,0,2,1,u66,m,false
 223,00:02:39,forwards_throw,blue,no_score,00:02:13,0,0,0,0,2,2,u66,m,false
 224,00:03:06,forwards_throw,blue,no_score,00:02:02,0,0,0,0,2,3,u66,m,false
-225,00:03;21,forwards_throw,white,no_score,00:01:36,1,1,0,0,2,4,u66,m,false
+225,00:03:21,forwards_throw,white,no_score,00:01:36,1,1,0,0,2,4,u66,m,false
 226,00:04:53,forwards_throw,white,wazari,00:00:57,1,2,0,0,3,4,u66,m,false
 227,00:05:29,backwards_throw,blue,no_score,00:00:34,1,2,1,0,4,5,u66,m,false
 228,00:05:50,forwards_throw,white,no_score,00:00:19,1,2,1,0,4,6,u66,m,false
