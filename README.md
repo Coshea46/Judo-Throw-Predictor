@@ -26,7 +26,7 @@ Since no public Judo pose dataset exists, I built a custom one from scratch to h
 
 ## 🧠 Key Challenges & Solutions
 
-### 1. The "Blob" Problem (High Occlusion)
+### 1. The High Occlusion Problem
 Judo involves constant physical contact, making it difficult for standard models to distinguish between two athletes. To maintain data integrity:
 * **Feature Priority:** The pipeline prioritizes the **7 Key Biomechanical Points**: Hips, Elbows, Head, and Ankles.
 * **Temporal Smoothing:** Uses **Linear Interpolation** to fill gaps when a joint is hidden for $< 5$ frames, ensuring the LSTM receives a continuous sequence.
