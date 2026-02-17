@@ -1,7 +1,7 @@
 import os
 import csv
 
-csv_path = './frames_with_throw.csv'
+csv_path = './intervals_of_throws.csv'
 
 with open(csv_path, newline='',encoding='utf-8',mode='a') as f:
     writer = csv.writer(f)
