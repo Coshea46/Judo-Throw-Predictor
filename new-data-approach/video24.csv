@@ -17,7 +17,7 @@ throw_number,timestamp(hour:min:sec),throw_type,player,score,time_left_fight,whi
 915,00:12:20,forwards_throw,white,no_score,00:01:58,1,0,1,0,2,0,u57,f,false
 916,00:13:03,forwards_throw,white,no_score,00:01:31,2,0,1,0,3,0,u57,f,false
 917,00:13:15,forwards_throw,blue,ippon,00:01:25,2,0,1,0,4,0,u57,f,false
- 
+
 918,00:14:30,forwards_throw,blue,no_score,00:03:35,1,0,0,0,0,0,u73,m,false
 919,00:15:16,forwards_throw,white,no_score,00:02:56,1,0,0,0,0,1,u73,m,false
 920,00:15:51,forwards_throw,white,no_score,00:02:32,1,0,0,0,1,1,u73,m,false
